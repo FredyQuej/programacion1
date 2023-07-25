@@ -1,0 +1,3 @@
+Esto empezando a utilizar Git
+Este es una segunda linea
+Tercera linea ... 
